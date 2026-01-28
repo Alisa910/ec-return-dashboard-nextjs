@@ -1,0 +1,317 @@
+[
+  {
+    "channel": "TM",
+    "shop_name": "MM 天猫旗舰店",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 463188665.53,
+      "return_rate": 0.49
+    },
+    "year_2024": {
+      "net_sales": 434633487.91,
+      "return_rate": 0.46
+    },
+    "yoy": {
+      "sales_amount": 28555177.619999945,
+      "sales_pct": 6.56994419765301,
+      "return_rate": 2.9999999999999973
+    },
+    "risk_level": "⚠️ 观察",
+    "suggestion": "销售增长快于退货率增长，持续监控退货率变化趋势",
+    "is_new_store": false
+  },
+  {
+    "channel": "TM",
+    "shop_name": "MK 天猫旗舰店",
+    "brand": "MLB KIDS",
+    "year_2025": {
+      "net_sales": 33564269.64,
+      "return_rate": 0.46
+    },
+    "year_2024": {
+      "net_sales": 29067564.72,
+      "return_rate": 0.42
+    },
+    "yoy": {
+      "sales_amount": 4496704.920000002,
+      "sales_pct": 15.469837130545836,
+      "return_rate": 4.0000000000000036
+    },
+    "risk_level": "⚠️ 观察",
+    "suggestion": "销售增长快于退货率增长，持续监控退货率变化趋势",
+    "is_new_store": false
+  },
+  {
+    "channel": "TM",
+    "shop_name": "DX 天猫旗舰店",
+    "brand": "Discovery",
+    "year_2025": {
+      "net_sales": 13116506.96,
+      "return_rate": 0.62
+    },
+    "year_2024": {
+      "net_sales": 2795275.78,
+      "return_rate": 0.71
+    },
+    "yoy": {
+      "sales_amount": 10321231.180000002,
+      "sales_pct": 369.23838620316747,
+      "return_rate": -8.999999999999996
+    },
+    "risk_level": "✅ 正常",
+    "suggestion": "保持当前运营策略",
+    "is_new_store": false
+  },
+  {
+    "channel": "TM",
+    "shop_name": "ML 淘宝奥莱 FO",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 1647802.18,
+      "return_rate": 0.54
+    },
+    "year_2024": {
+      "net_sales": 3546735.39,
+      "return_rate": 0.5
+    },
+    "yoy": {
+      "sales_amount": -1898933.2100000002,
+      "sales_pct": -53.5403124618214,
+      "return_rate": 4.0000000000000036
+    },
+    "risk_level": "🚨 高风险",
+    "suggestion": "建议检查：商品质量、物流时效、尺码准确性、退货政策",
+    "is_new_store": false
+  },
+  {
+    "channel": "JD",
+    "shop_name": "MM 京东旗舰店",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 24388913.95,
+      "return_rate": 0.45
+    },
+    "year_2024": {
+      "net_sales": 10717409.01,
+      "return_rate": 0.4
+    },
+    "yoy": {
+      "sales_amount": 13671504.94,
+      "sales_pct": 127.5635270357196,
+      "return_rate": 4.999999999999999
+    },
+    "risk_level": "⚠️ 观察",
+    "suggestion": "销售增长快于退货率增长，持续监控退货率变化趋势",
+    "is_new_store": false
+  },
+  {
+    "channel": "JD",
+    "shop_name": "MM 京东服饰",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 9134401.61,
+      "return_rate": 0.43
+    },
+    "year_2024": {
+      "net_sales": 3367970.58,
+      "return_rate": 0.39
+    },
+    "yoy": {
+      "sales_amount": 5766431.029999999,
+      "sales_pct": 171.2138183226054,
+      "return_rate": 3.9999999999999982
+    },
+    "risk_level": "⚠️ 观察",
+    "suggestion": "销售增长快于退货率增长，持续监控退货率变化趋势",
+    "is_new_store": false
+  },
+  {
+    "channel": "JD",
+    "shop_name": "MK 京东旗舰店",
+    "brand": "MLB KIDS",
+    "year_2025": {
+      "net_sales": 1700579.71,
+      "return_rate": 0.4
+    },
+    "year_2024": {
+      "net_sales": 1069969.79,
+      "return_rate": 0.34
+    },
+    "yoy": {
+      "sales_amount": 630609.9199999999,
+      "sales_pct": 58.937170553198506,
+      "return_rate": 6
+    },
+    "risk_level": "⚠️ 观察",
+    "suggestion": "销售增长快于退货率增长，持续监控退货率变化趋势",
+    "is_new_store": false
+  },
+  {
+    "channel": "JD",
+    "shop_name": "DX 京东旗舰店",
+    "brand": "Discovery",
+    "year_2025": {
+      "net_sales": 1165631.82,
+      "return_rate": 0.57
+    },
+    "year_2024": {
+      "net_sales": null,
+      "return_rate": 0
+    },
+    "yoy": {
+      "sales_amount": null,
+      "sales_pct": null,
+      "return_rate": null
+    },
+    "risk_level": "新开店｜不可比",
+    "suggestion": "关注新店铺运营质量和退货率趋势",
+    "is_new_store": true
+  },
+  {
+    "channel": "DY",
+    "shop_name": "ML 抖音鞋服旗舰店",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 62830045.69,
+      "return_rate": 0.59
+    },
+    "year_2024": {
+      "net_sales": 21118781.14,
+      "return_rate": 0.49
+    },
+    "yoy": {
+      "sales_amount": 41711264.55,
+      "sales_pct": 197.5079161694461,
+      "return_rate": 9.999999999999998
+    },
+    "risk_level": "⚠️ 观察",
+    "suggestion": "销售增长快于退货率增长，持续监控退货率变化趋势",
+    "is_new_store": false
+  },
+  {
+    "channel": "DY",
+    "shop_name": "ML 抖音服装旗舰店",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 22942803.32,
+      "return_rate": 0.6
+    },
+    "year_2024": {
+      "net_sales": 4933880,
+      "return_rate": 0.63
+    },
+    "yoy": {
+      "sales_amount": 18008923.32,
+      "sales_pct": 365.0052964401242,
+      "return_rate": -3.0000000000000027
+    },
+    "risk_level": "✅ 正常",
+    "suggestion": "保持当前运营策略",
+    "is_new_store": false
+  },
+  {
+    "channel": "DY",
+    "shop_name": "MK 抖音儿童旗舰店",
+    "brand": "MLB KIDS",
+    "year_2025": {
+      "net_sales": 1776510.38,
+      "return_rate": 0.64
+    },
+    "year_2024": {
+      "net_sales": null,
+      "return_rate": 0
+    },
+    "yoy": {
+      "sales_amount": null,
+      "sales_pct": null,
+      "return_rate": null
+    },
+    "risk_level": "新开店｜不可比",
+    "suggestion": "关注新店铺运营质量和退货率趋势",
+    "is_new_store": true
+  },
+  {
+    "channel": "DY",
+    "shop_name": "DX 抖音旗舰店",
+    "brand": "Discovery",
+    "year_2025": {
+      "net_sales": 1129833.2,
+      "return_rate": 0.58
+    },
+    "year_2024": {
+      "net_sales": null,
+      "return_rate": 0
+    },
+    "yoy": {
+      "sales_amount": null,
+      "sales_pct": null,
+      "return_rate": null
+    },
+    "risk_level": "新开店｜不可比",
+    "suggestion": "关注新店铺运营质量和退货率趋势",
+    "is_new_store": true
+  },
+  {
+    "channel": "WeChat",
+    "shop_name": "ML 微商城",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 15854999.95,
+      "return_rate": 0.19
+    },
+    "year_2024": {
+      "net_sales": 20508260.5,
+      "return_rate": 0.23
+    },
+    "yoy": {
+      "sales_amount": -4653260.550000001,
+      "sales_pct": -22.689689113320952,
+      "return_rate": -4.000000000000001
+    },
+    "risk_level": "✅ 正常",
+    "suggestion": "保持当前运营策略",
+    "is_new_store": false
+  },
+  {
+    "channel": "VIP",
+    "shop_name": "VIPMLB",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 56660781.35,
+      "return_rate": 0.59
+    },
+    "year_2024": {
+      "net_sales": 58539595.54,
+      "return_rate": 0.56
+    },
+    "yoy": {
+      "sales_amount": -1878814.1899999976,
+      "sales_pct": -3.209475864444959,
+      "return_rate": 2.9999999999999916
+    },
+    "risk_level": "🚨 高风险",
+    "suggestion": "建议检查：商品质量、物流时效、尺码准确性、退货政策",
+    "is_new_store": false
+  },
+  {
+    "channel": "VIP",
+    "shop_name": "VIPMLBkids",
+    "brand": "MLB",
+    "year_2025": {
+      "net_sales": 7743481.69,
+      "return_rate": 0.51
+    },
+    "year_2024": {
+      "net_sales": 6372045.11,
+      "return_rate": 0.5
+    },
+    "yoy": {
+      "sales_amount": 1371436.58,
+      "sales_pct": 21.52270670287204,
+      "return_rate": 1.0000000000000009
+    },
+    "risk_level": "⚠️ 观察",
+    "suggestion": "销售增长快于退货率增长，持续监控退货率变化趋势",
+    "is_new_store": false
+  }
+]
